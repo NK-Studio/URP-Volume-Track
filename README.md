@@ -5,6 +5,6 @@
 
 이 에셋은 URP의 기본 포스트 프로세싱 기능들 타임라인에서 건들 수 있도록 트랙을 제공합니다.
 
-### LTS -> [UnityPackage](https://github.com/NK-Studio/URP-Volume-Track/releases/tag/1.0.0) 다운로드
+### Beta -> [UnityPackage](https://github.com/NK-Studio/URP-Volume-Track/releases/tag/1.0.0) 다운로드
 
 https://user-images.githubusercontent.com/53283888/193453484-15a68927-7a60-40dd-a67a-cb05302a47fd.mp4
