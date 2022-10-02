@@ -7,4 +7,4 @@
 
 ### LTS -> [UnityPackage](https://github.com/NK-Studio/URP-Volume-Track/releases/tag/1.0.0) 다운로드
 
-![세팅창 이미지](sum.png)
+https://user-images.githubusercontent.com/53283888/193453460-434e313b-e81b-4244-ab34-eb3464218be9.mp4
